@@ -1,6 +1,18 @@
 #!/usr/bin/python3 or python2
 #coding=utf-8
 
+#######################################################
+#                     OPEN SOURCE                     #
+#          JIKA MAU DI RECOD SERTAKAN AUTHOR          #
+#        SCRIPT INI DI RAKIT OLEH SAYA SENDIRI        #
+#                   AUTHOR BOY HAMZAH                 #
+#                                                     #
+#                MY TEAM HECKER BEAUTIFUL             #
+# ANGGA,BOY,YAYAN,ZACKY,RIZKY,IQBAL,LATIF,HAN,FALLEN  #
+#######################################################
+
+
+
 import types
 import zlib
 import marshal
