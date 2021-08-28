@@ -7,7 +7,7 @@
 #        SCRIPT INI DI RAKIT OLEH SAYA SENDIRI        #
 #                   AUTHOR BOY HAMZAH                 #
 #                                                     #
-#                MY TEAM HECKER BEAUTIFUL             #
+#                MY TEAM XNSCODE                      #
 # ANGGA,BOY,YAYAN,ZACKY,RIZKY,IQBAL,LATIF,HAN,FALLEN  #
 #######################################################
 
