@@ -13,10 +13,12 @@ $ ls
 #### CARA MENGGUNAKAN
  * untuk encrypt python3 contoh :
 ```
-$ python lambda.py namafile.py
+$ python lambda.py /sdcard/namafile.py
 ```
 
  * untuk encrypt python2 contoh : 
 ```
-$ python lambda.py namafile.py
+$ python2 lambda.py /sdcard/namafile.py
 ```
+
+Support by XNSCODE
