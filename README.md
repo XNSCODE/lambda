@@ -1,22 +1,22 @@
-# INSTALL
+sebuah script untuk encrypt python agar tidak nampak sourcenya 
+
+#### PERINTAH
 ```
 $ pkg update & pkg upgrade
-$ pkg install python
-$ pkg install python2
-$ pkg install git
+$ pkg install python python2 git
+$ pip install bs4
 $ pip2 install bs4
+$ git clone https://github.com/XNSCODE/lambda
+$ cd lambda
+$ ls
 ```
-# DOWNLOAD
+#### CARA MENGGUNAKAN
+ * untuk encrypt python3 contoh :
 ```
-git clone https://github.com/XNSCODE/lambda
+$ python lambda.py namafile.py
 ```
-# RUN
-```
-cd lambda
-ls
-```
-***CARA PEMAKAIAN py2***
-- python2 lambda.py /sdcard/folder/file.py
 
-***CARA PEMAKAIAN Py3***
-- python3 lambda.py /sdcard/folder/file.py
+ * untuk encrypt python2 contoh : 
+```
+$ python lambda.py namafile.py
+```
